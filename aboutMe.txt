@@ -1,1 +1,6 @@
 My name is Andrew, I like trains.
+Course Taking:
+coen 174
+coen 174L
+Math 53
+Econ 142
